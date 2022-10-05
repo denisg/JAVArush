@@ -1,0 +1,1 @@
+-Todos los directorios son proyectos de neatbeans
